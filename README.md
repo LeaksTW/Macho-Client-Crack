@@ -14,7 +14,6 @@ one of the worst clients i've ever had the displeasure of looking at
 + GUI: Default IMGUI
 + STA Client: Animations
 + Sash Client: Replay Bot, Auto-Unfreeze
-+ PepsiMod: basically everything else.
 
 <div align="center">
 
