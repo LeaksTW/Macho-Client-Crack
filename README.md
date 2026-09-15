@@ -19,4 +19,4 @@ one of the worst clients i've ever had the displeasure of looking at
 <div align="center">
 
 <h1>< info ></h1>
-this client has terrible code
+menu opens on F7
